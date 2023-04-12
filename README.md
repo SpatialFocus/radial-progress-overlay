@@ -4,7 +4,7 @@ A radial progress bar can be used to visually represent progress towards complet
 
 If you're looking for a classic radial progress bar, you can easily find prebuilt packages and samples all over the web. However, for our current project, we required a slightly modified, animatable version of the progress bar. We call it a radial progress overlay, which can be utilized on top of any child content.
 
-Check our [blog post](https://www.spatial-focus.net/blog) for more details.
+Check our [blog post](https://www.spatial-focus.net/blog/radial-progress-css-animation) for more details.
 
 **Samples on Codepen**
 
