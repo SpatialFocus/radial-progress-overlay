@@ -8,7 +8,7 @@ Check our [blog post](https://www.spatial-focus.net/blog) for more details.
 
 **Samples on Codepen**
 
-| Overlay | Overlay (countdown) | Overlay (iOS App Style) |
+| Overlay | Overlay (inverted) | Overlay (iOS App Style) |
 | :---: | :---: | :---: |
 | [Codepen](https://codepen.io/spatial-focus/pen/JjavXNV) | [Codepen](https://codepen.io/spatial-focus/pen/yLxKjWP) | [Codepen](https://codepen.io/spatial-focus/pen/LYJmZJL) |
 | ![Radial Progress Animation](https://raw.githubusercontent.com/SpatialFocus/radial-progress-overlay/master/assets/steps/radial_progress_animation_2.gif) | ![Radial Progress Animation](https://raw.githubusercontent.com/SpatialFocus/radial-progress-overlay/master/assets/steps/radial_progress_animation_1.gif) | ![Radial Progress Animation](https://raw.githubusercontent.com/SpatialFocus/radial-progress-overlay/master/assets/steps/radial_progress_animation_3.gif) |
